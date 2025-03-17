@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning Full Stack Development, Blockchain, and Data Structures & Algorithms  
 - 💼 I currently work as a Junior Full Stack Developer and used to be a ZOHO Developer  
 - 💞️ I’m looking to collaborate on web and blockchain projects  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mohaksharmap/) | [Email](mohak@ppnsolutions.com)  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mohaksharmap/) | [Email](mailto:mohak@ppnsolutions.com)  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I can switch from coding backend logic to debugging front-end UI and then hit the gym—all in one day!  
